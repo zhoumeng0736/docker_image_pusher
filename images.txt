@@ -3,3 +3,5 @@ nginx
 amir20/dozzle:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+#emqx
+emqx:4.4
