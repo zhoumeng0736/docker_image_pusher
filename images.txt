@@ -5,3 +5,4 @@ amir20/dozzle:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #emqx
 emqx:4.4
+ultralytics/yolov5
