@@ -8,3 +8,4 @@ emqx:4.4
 ultralytics/yolov5
 #ollama
 ollama/ollama
+infiniflow/ragflow
