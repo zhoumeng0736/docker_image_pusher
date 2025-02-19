@@ -6,3 +6,4 @@ amir20/dozzle:latest
 #emqx
 emqx:4.4
 ultralytics/yolov5
+ollama/ollama
